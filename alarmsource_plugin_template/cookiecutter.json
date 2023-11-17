@@ -1,5 +1,5 @@
 {
-  "project_name": " Alarm Source Info",
+  "project_name": "Alarm Source Info",
   "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
   "author": "Justin"
 }
